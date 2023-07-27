@@ -17,7 +17,7 @@ O projeto tem como propósito propor uma solução ao caso técnico descrito em 
 
 ![](docs/diretorios.png)
     
-***Obs.1:** O código-fonte do teste encontra-se em repositório Github https://github.com/eder1985/pismo_recruiting_technical_case*. Já o código-fonte do notebook pode ser acessado diretamento na url https://github.com/eder1985/pismo_recruiting_technical_case/blob/main/work/notebooks/Colab_Pismo_Recruiting_Technical_Case.ipynb*.
+***Obs.1:** O código-fonte do teste encontra-se em repositório Github https://github.com/eder1985/pismo_recruiting_technical_case. Já o código-fonte do notebook pode ser acessado diretamento na url https://github.com/eder1985/pismo_recruiting_technical_case/blob/main/work/notebooks/Colab_Pismo_Recruiting_Technical_Case.ipynb*.
 
 ***Obs.2:** A instalação das dependências e da criação dos diretórios de trabalho, necessárias para o ambiente de trabalho, são executados e criadas no início do notebook.*
 
@@ -47,7 +47,7 @@ Segue abaixo maiores detalhes:*
     - A função `run` como função principal
 
 
-*Os arquivos são gerados com um rótulo fake_events_<timestamp> com o timestamp do momento em que são gerados. Abaixo, exemplo dos arquivos .json gerados:*
+*Os arquivos são gerados com um rótulo fake_events_timestamp com o timestamp do momento em que são gerados. Abaixo, exemplo dos arquivos .json gerados:*
 
 ![](docs/arquivos_json.png)
 
