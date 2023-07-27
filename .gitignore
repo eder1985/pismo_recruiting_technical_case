@@ -277,5 +277,4 @@ yadlExample/scalastyle-output.xml
 .ipynb_checkpoints
 
 # project docs
-docs/
 work/data
